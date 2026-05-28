@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI App Compiler
 
 ## Features
@@ -28,3 +29,6 @@ cd frontend
 npm install
 
 npm run dev
+=======
+# Ai-app-compiler
+>>>>>>> f2cdb7dbbf5b9aba663b1e02e545a232c0303678
